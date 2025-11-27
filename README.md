@@ -23,4 +23,7 @@ This analysis follows the classical single-cell pipeline:
 
 ###  Dataset
 **PBMC 3k** from 10x Genomics  
-Place the folder: 
+pbmc3k_filtered_gene_bc_matrices.tar.gz
+
+### Author
+**Meghana Alugunoolla**
